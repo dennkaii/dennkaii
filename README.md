@@ -1,5 +1,8 @@
 # Hey there
 
+I'm ***** ***** also known as dennkaii, im studying Data Sciece and currently in my 3rd trimester(the day i make this).
+i'm currently learning nix and python. 
+
 <!--
 **dennkaii/dennkaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
